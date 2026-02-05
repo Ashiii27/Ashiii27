@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cybersecurity+Enthusiast;Network+Security+Researcher;SOC+Analyst+in+Training;Blue+Team+Defender" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ThreatHater-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/ThreatHater)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/Ashiii27)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ThreatHater-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Ashiii27)
 
 </div>
 
@@ -177,12 +177,12 @@ me.philosophy()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiii27&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -224,7 +224,7 @@ graph LR
 | ![Security+](https://img.shields.io/badge/-Learning-FF0000?style=flat-square) | In Progress | Security Fundamentals |
 | ![Blue Team](https://img.shields.io/badge/-Blue_Team-0078D4?style=flat-square) | Focused | Defensive Security |
 
-[🎯 Visit My TryHackMe Profile](https://tryhackme.com/p/ThreatHater)
+[🎯 Visit My TryHackMe Profile](https://tryhackme.com/p/Ashiii27)
 
 </div>
 
@@ -267,7 +267,7 @@ Learning Platform:  TryHackMe, Hands-on Labs
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117)
 
 </div>
 
@@ -277,16 +277,16 @@ Learning Platform:  TryHackMe, Hands-on Labs
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ThreatHater)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<! [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) !>
 
 </div>
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
 - ✅ Build hands-on security projects
 - 🔄 Master SOC fundamentals & log analysis

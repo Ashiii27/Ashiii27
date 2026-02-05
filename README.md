@@ -177,12 +177,22 @@ me.philosophy()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  
+<a href="https://github.com/Ashiii27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+</a>
+<a href="https://github.com/Ashiii27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+</a>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiii27&theme=chartreuse-dark&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  
+<a href="https://github.com/Ashiii27">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiii27&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak"/>
+</a>
+
 </div>
 
 <div align="center">
@@ -267,7 +277,9 @@ Learning Platform:  TryHackMe, Hands-on Labs
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117)
+<a href="https://github.com/Ashiii27">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="95%" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -286,7 +298,7 @@ Learning Platform:  TryHackMe, Hands-on Labs
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 
 - ✅ Build hands-on security projects
 - 🔄 Master SOC fundamentals & log analysis

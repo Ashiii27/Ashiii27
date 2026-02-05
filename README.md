@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Cybersecurity+Enthusiast;Network+Security+Researcher;SOC+Analyst+in+Training;Blue+Team+Defender" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/Ashiii27)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ThreatHater-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Ashiii27)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ashiii27&label=Profile%20Views&color=00ff41&style=for-the-badge)](https://github.com/Ashiii27)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ashiii27-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/Ashiii27)
 
 </div>
 
@@ -280,13 +280,13 @@ Learning Platform:  TryHackMe, Hands-on Labs
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-<! [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) !>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2024 Goals
 
 - ✅ Build hands-on security projects
 - 🔄 Master SOC fundamentals & log analysis

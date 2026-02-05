@@ -259,7 +259,7 @@ graph LR
 
 ## 🔧 Current Tech Stack
 
-<div align="center">
+<div align="left">
 
 ```text
 Operating Systems:  Linux (Ubuntu/Kali), Windows

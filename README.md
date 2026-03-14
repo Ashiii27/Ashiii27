@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ashiii27 👋</h1>
+<h1 align="center">Hey, I'm Ashish 👋</h1>
 
 <p align="center">
   <em>CSE Undergrad &nbsp;·&nbsp; SDE Aspirant &nbsp;·&nbsp; Security Enthusiast</em>

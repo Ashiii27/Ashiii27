@@ -1,99 +1,116 @@
-<h1 align="center">Hey, I'm Ashish 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>CSE Undergrad &nbsp;·&nbsp; ·&nbsp; Security Enthusiast</em>
-</p>
+# Ash · `Ashiii27`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+scale.;Breaking+things+to+understand+them.;Algorithms+%7C+Web+Dev+%7C+Cyber+Security." alt="Typing SVG" />
-</p>
+### Blue Team · Detection Engineering · SOC Analysis · Digital Forensics
 
----
+*B.Tech CSE @ MMMUT Gorakhpur — Targeting Cybersecurity Roles *
 
-## 👨‍💻 About Me
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ashiii27.png)](https://tryhackme.com/p/Ashiii27)
 
-I'm a pre-final year Computer Science student with a focus on writing clean, efficient code and understanding systems deeply — not just on the surface.
-
-My work spans three tracks that I'm building in parallel:
-
-- **Problem Solving & DSA** — Sharpening algorithmic thinking through structured practice (C++). Comfortable with arrays, recursion, sorting, and steadily pushing further.
-- **Full Stack Web Development** — Building end-to-end applications with a modern JavaScript stack. Currently progressing through HTML → CSS → Tailwind → JavaScript → React → Node.js.
-- **Cyber Security** — Developing a blue-team foundation. Focused on SOC workflows, log analysis, threat detection, and understanding attacker TTPs through the MITRE ATT&CK framework.
-
-I'm not chasing breadth for the sake of it. Each track feeds into a coherent goal: becoming an engineer who can build secure, well-architected software and understand the threat landscape it operates in.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+- 🛡️ Focused on **Blue Team security** — threat detection, SOC operations, and digital forensics
+- 🔭 Currently building **SentinelX** — a C++ NIDS with real-time packet analysis and MITRE ATT&CK technique mapping
+- 🔍 Researching Windows authentication forensics, EVTX log correlation, and network-level anomaly detection
+- 🎯 Targeting **SOC Analyst / Blue Team** roles with secondary interest in Bug Bounty and Malware Analysis
+- 📈 **Top 3%** globally on TryHackMe
+
+---
+
+## 🚧 Active Projects
+
+### [SentinelX](https://github.com/Ashiii27/SentinelX) · C++ Network Intrusion Detection System
+
+> A modular NIDS built from scratch in C++ that captures and parses live network traffic, maps detections to MITRE ATT&CK techniques, and generates structured alerts.
+
+- Custom parser pipeline: `PacketCapture → IP → TCP → HTTP`
+- Modular architecture — new detectors plug in via abstract `BaseDetector` interface
+- Alert system with severity levels and technique tagging
+- **Stack:** C++ · libpcap · MITRE ATT&CK Framework
+
+---
+
+### [WinLogon Forensics](https://github.com/Ashiii27/WinLogon-Forensics) · Multi-Auth Artifact Correlation
+
+> Forensics tool correlating Windows authentication artifacts across **Local Accounts, Microsoft Accounts, RDP, and Active Directory / Kerberos**. Parses EVTX files, flags anomalous Event IDs, and surfaces suspicious access patterns.
+
+- Key Event IDs: 4624, 4625, 4648, 4768, 4776 and more
+- Python + PowerShell log parsing with cross-mechanism anomaly correlation
+- IEEE-format research paper in progress (supervised by Dr. Vimal Kumar, MMMUT)
+- **Stack:** Python · PowerShell · EVTX Parsing · FTK Imager · Autopsy · Wireshark
+
+---
+
+### [PCAP Forensics Analyser](https://github.com/Ashiii27/PCAP-Forensics-Analyser)
+
+> Network forensics tool for deep PCAP analysis — protocol dissection, IOC extraction, and anomaly flagging from captured traffic.
+
+---
+
+## 🔧 Security Toolkit
 
 **Languages**
-```
-C++          ████████████░░░░   Primary — DSA & systems
-Python       ████████░░░░░░░░   Security tooling & scripting
-JavaScript   ███████░░░░░░░░░   Web development
-```
 
-**Web & Frontend**
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+), React *(in progress)*
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-**Security & Tools**
-- Linux, Bash scripting
-- Wireshark, Splunk *(learning)*
-- Windows Event Log analysis, forensic artifact collection
-- TryHackMe · LetsDefend · CyberDefenders
+**Tools**
 
-**Dev Workflow**
-- Git & GitHub
-- VS Code
-- VirtualBox / Kali Linux VM
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Domains**
+
+`Network Traffic Analysis` · `MITRE ATT&CK` · `EVTX / Windows Log Forensics` · `PCAP Analysis` · `Threat Detection` · `Incident Response` · `OSINT`
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📊 Stats
 
-- 📊 **DSA** — Grinding Striver's A2Z sheet systematically in C++
-- 🌐 **Web Dev** — Moving into JavaScript fundamentals after completing Tailwind CSS
-- 🔐 **Security** — Working through TCM Security's SOC Analyst Level 1 curriculum
-- 🖥️ **Forensics** — Investigating Windows Remote Login artifacts: Event IDs, logon types, and detection patterns
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github)
 
-## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashiii27&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🧭 Where I'm Headed
+## 📚 Learning & Certifications
 
-I'm targeting **SDE roles (product-based companies)** in the 2026 placement cycle, with a longer-term path into **security engineering** — specifically blue team / SOC functions. I want to work at the intersection of software development and security, building systems and understanding how they fail.
-
-My roadmap is deliberate: solid DSA fundamentals → production-grade full stack projects → security tooling and certifications → roles where I can contribute technically on day one and grow into specialized security work over time.
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/Ashiii27">
-    <img src="https://img.shields.io/badge/GitHub-Ashiii27-181717?style=for-the-badge&logo=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/Ashiii27">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+| Status | Platform / Certification |
+|--------|--------------------------|
+| 🟢 Active | TryHackMe — **Top 3% globally** |
+| 🟡 In Progress | LetsDefend · CyberDefenders · PortSwigger Web Security Academy |
+| 📌 Next Target | CompTIA Security+ |
+| 🗺️ Roadmap | CySA+ → TCM Security PTP → OSCP |
 
 ---
 
-<p align="center">
-  <sub>This profile is a work in progress — just like the engineer behind it.</sub>
-</p>
+## ⚙️ Secondary Skills
+
+Maintaining a working foundation outside security:
+
+`C++ / DSA` · `Basic MERN Stack` · `Git & GitHub`
+
+---
+
+## 📬 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiii27)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ashiii27-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
+
+---
+
+<div align="center">
+<sub>🔍 Always learning. Always building. Open to security roles — August 2026.</sub>
+</div>

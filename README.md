@@ -4,7 +4,7 @@
 
 ### Blue Team · Detection Engineering · SOC Analysis · Digital Forensics
 
-*B.Tech CSE @ MMMUT Gorakhpur — Targeting Cybersecurity Roles *
+*B.Tech CSE @ MMMUT Gorakhpur — Targeting Cybersecurity Roles · August 2026*
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ashiii27.png)](https://tryhackme.com/p/Ashiii27)
 
@@ -35,7 +35,7 @@
 
 ---
 
-### [WinLogon Forensics](https://github.com/Ashiii27/WinLogon-Forensics) · Multi-Auth Artifact Correlation
+### [WinLogon Forensics](https://github.com/Ashiii27/Windows-Login-Extractor) · Multi-Auth Artifact Correlation
 
 > Forensics tool correlating Windows authentication artifacts across **Local Accounts, Microsoft Accounts, RDP, and Active Directory / Kerberos**. Parses EVTX files, flags anomalous Event IDs, and surfaces suspicious access patterns.
 
@@ -77,9 +77,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ashiii27&theme=github-dark-blue&hide_border=true)](https://github.com/Ashiii27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&theme=github_dark&hide_border=true)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ashiii27.png)](https://tryhackme.com/p/Ashiii27)
 
 </div>
 

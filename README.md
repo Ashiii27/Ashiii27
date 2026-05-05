@@ -1,7 +1,5 @@
 <div align="center">
 
-# Ash · `Ashiii27`
-
 ### Blue Team · Detection Engineering · SOC Analysis · Digital Forensics
 
 *B.Tech CSE @ MMMUT Gorakhpur — Targeting Cybersecurity Roles · August 2026*
@@ -112,5 +110,5 @@ Maintaining a working foundation outside security:
 ---
 
 <div align="center">
-<sub>🔍 Always learning. Always building. Open to security roles — August 2026.</sub>
+<sub>🔍 Always learning. Always building. Open to security roles .</sub>
 </div>

@@ -1,114 +1,90 @@
 <div align="center">
 
-### Blue Team · Detection Engineering · SOC Analysis · Digital Forensics
+# Ashish Kumar
 
-*B.Tech CSE @ MMMUT Gorakhpur — Targeting Cybersecurity Roles · August 2026*
+**B.Tech CSE · MMMUT Gorakhpur · Graduating August 2026**
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ashiii27.png)](https://tryhackme.com/p/Ashiii27)
+Seeking roles in **SOC Analysis · Blue Team Engineering · Digital Forensics**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiii27-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiii27)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Globally-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-- 🛡️ Focused on **Blue Team security** — threat detection, SOC operations, and digital forensics
-- 🔭 Currently building **SentinelX** — a C++ NIDS with real-time packet analysis and MITRE ATT&CK technique mapping
-- 🔍 Researching Windows authentication forensics, EVTX log correlation, and network-level anomaly detection
-- 🎯 Targeting **SOC Analyst / Blue Team** roles with secondary interest in Bug Bounty and Malware Analysis
-- 📈 **Top 3%** globally on TryHackMe
+Blue team-focused security engineer with hands-on experience in threat detection, Windows log forensics, and network traffic analysis. Currently building real-world tools that map to MITRE ATT&CK and correlate multi-source authentication artifacts — the kind of work that sits at the core of modern SOC and DFIR operations.
+
+**Areas of depth:** Network Intrusion Detection · EVTX Forensics · PCAP Analysis · Incident Response · OSINT
 
 ---
 
-## 🚧 Active Projects
+## Projects
 
-### [SentinelX](https://github.com/Ashiii27/SentinelX) · C++ Network Intrusion Detection System
+### [SentinelX](https://github.com/Ashiii27/SentinelX) — C++ Network Intrusion Detection System
 
-> A modular NIDS built from scratch in C++ that captures and parses live network traffic, maps detections to MITRE ATT&CK techniques, and generates structured alerts.
+A modular NIDS built from scratch that captures live traffic, parses it through a custom pipeline, and maps detections to MITRE ATT&CK techniques with structured alert output.
 
-- Custom parser pipeline: `PacketCapture → IP → TCP → HTTP`
-- Modular architecture — new detectors plug in via abstract `BaseDetector` interface
-- Alert system with severity levels and technique tagging
-- **Stack:** C++ · libpcap · MITRE ATT&CK Framework
+- Custom `PacketCapture → IP → TCP → HTTP` parser pipeline with pluggable detector architecture via abstract `BaseDetector` interface
+- Alert system with severity classification and ATT&CK technique tagging
+- Designed for extensibility — new detection modules added without touching core logic
 
----
-
-### [WinLogon Forensics](https://github.com/Ashiii27/Windows-Login-Extractor) · Multi-Auth Artifact Correlation
-
-> Forensics tool correlating Windows authentication artifacts across **Local Accounts, Microsoft Accounts, RDP, and Active Directory / Kerberos**. Parses EVTX files, flags anomalous Event IDs, and surfaces suspicious access patterns.
-
-- Key Event IDs: 4624, 4625, 4648, 4768, 4776 and more
-- Python + PowerShell log parsing with cross-mechanism anomaly correlation
-- IEEE-format research paper in progress (supervised by Dr. Vimal Kumar, MMMUT)
-- **Stack:** Python · PowerShell · EVTX Parsing · FTK Imager · Autopsy · Wireshark
+**Stack:** C++ · libpcap · MITRE ATT&CK Framework
 
 ---
 
-### [PCAP Forensics Analyser](https://github.com/Ashiii27/PCAP-Forensics-Analyser)
+### [WinLogon Forensics](https://github.com/Ashiii27/Windows-Login-Extractor) — Multi-Auth Artifact Correlation
 
-> Network forensics tool for deep PCAP analysis — protocol dissection, IOC extraction, and anomaly flagging from captured traffic.
+Forensics tool that correlates Windows authentication artifacts across Local Accounts, Microsoft Accounts, RDP, and Active Directory / Kerberos — surfacing anomalous access patterns from EVTX logs.
 
----
+- Parses and cross-correlates key Event IDs: 4624, 4625, 4648, 4768, 4776, and more
+- Flags suspicious patterns across authentication mechanisms in a unified view
+- IEEE-format research paper in progress under supervision of Dr. Vimal Kumar, MMMUT
 
-## 🔧 Security Toolkit
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-
-**Tools**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Domains**
-
-`Network Traffic Analysis` · `MITRE ATT&CK` · `EVTX / Windows Log Forensics` · `PCAP Analysis` · `Threat Detection` · `Incident Response` · `OSINT`
+**Stack:** Python · PowerShell · EVTX Parsing · FTK Imager · Autopsy · Wireshark
 
 ---
 
-## 📊 Stats
+### [PCAP Forensics Analyser](https://github.com/Ashiii27/PCAP-Forensics-Analyser) — Network Traffic Forensics
+
+Deep PCAP analysis tool for protocol dissection, IOC extraction, and anomaly flagging from captured network traffic.
+
+---
+
+## Skills
+
+| Category | Skills |
+|---|---|
+| **Languages** | C++ · Python · PowerShell |
+| **Tools** | Wireshark · FTK Imager · Autopsy · Kali Linux · VS Code |
+| **Domains** | Threat Detection · MITRE ATT&CK · EVTX/Windows Forensics · PCAP Analysis · Incident Response · OSINT |
+
+---
+
+## Certifications & Learning
+
+| Status | Platform / Certification |
+|---|---|
+| 🟢 Active | TryHackMe — **Top 3% globally** |
+| 🟡 In Progress | LetsDefend · CyberDefenders · PortSwigger Web Security Academy |
+| 📌 Next | CompTIA Security+ |
+| 🗺️ Roadmap | CySA+ → TCM Security PTP → OSCP |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ashiii27&theme=github-dark-blue&hide_border=true)](https://github.com/Ashiii27)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Ashiii27.png)](https://tryhackme.com/p/Ashiii27)
-
 </div>
 
 ---
 
-## 📚 Learning & Certifications
-
-| Status | Platform / Certification |
-|--------|--------------------------|
-| 🟢 Active | TryHackMe — **Top 3% globally** |
-| 🟡 In Progress | LetsDefend · CyberDefenders · PortSwigger Web Security Academy |
-| 📌 Next Target | CompTIA Security+ |
-| 🗺️ Roadmap | CySA+ → TCM Security PTP → OSCP |
-
----
-
-## ⚙️ Secondary Skills
-
-Maintaining a working foundation outside security:
-
-`C++ / DSA` · `Basic MERN Stack` · `Git & GitHub`
-
----
-
-## 📬 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ashiii27)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Ashiii27-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
-
----
-
 <div align="center">
-<sub>🔍 Always learning. Always building. Open to security roles .</sub>
+<sub>Open to SOC Analyst, Blue Team, and Digital Forensics roles · Available August 2026</sub>
 </div>

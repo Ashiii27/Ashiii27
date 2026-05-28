@@ -155,7 +155,7 @@ Watch the GitHub — more dropping soon.
 
 ## `> ./hire_me.sh`
 
-**Looking for SOC Analyst · Blue Team · DFIR roles — available August 2026**
+**Looking for SOC Analyst · Blue Team · DFIR roles**
 
 If you're building a security team and want someone who writes forensics tools,
 understands what's in the logs, and maps every detection to MITRE —

@@ -26,7 +26,7 @@
 name        : Ashish Kumar
 degree      : B.Tech Computer Science & Engineering
 university  : MMMUT Gorakhpur
-graduating  : August 2026
+graduating  : June 2027
 location    : India
 target_roles: [ SOC Analyst, Blue Team Engineer, Digital Forensics ]
 ```

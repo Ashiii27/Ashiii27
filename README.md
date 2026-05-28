@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiii27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Globally-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
-[![Status](https://img.shields.io/badge/Open%20To%20Work-Aug%202026-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Status](https://img.shields.io/badge/Open%20To%20Work-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 
 <br/><br/>
 

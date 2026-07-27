@@ -1,151 +1,103 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a3d62,100:00b4d8&height=180&section=header&text=Ashish%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20DFIR&descAlignY=57&descSize=18&descColor=90e0ef&animation=fadeIn" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=00B4D8&center=true&vCenter=true&width=620&lines=Threat+Detection+Engineer+%F0%9F%9B%A1%EF%B8%8F;EVTX+%26+Windows+Log+Forensics+%F0%9F%94%8D;Network+Traffic+%26+PCAP+Analysis+%F0%9F%8C%90;MITRE+ATT%26CK+Practitioner+%F0%9F%97%BA%EF%B8%8F;Building+Real+Blue+Team+Tools+%F0%9F%94%A7)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a3d62,100:00b4d8&height=160&section=header&text=Ashish%20Kumar&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Blue%20Team%20Engineer%20%7C%20SOC%20Analyst%20%7C%20DFIR&descAlignY=58&descSize=17&descColor=90e0ef&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiii27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%203%25%20Globally-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
-[![Status](https://img.shields.io/badge/Open%20To%20Work-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://ashiii27.vercel.app)
 
-<br/><br/>
+<br/>
 
 </div>
 
 ---
 
-## `> whoami`
+## About
 
-```yaml
-name        : Ashish Kumar
-degree      : B.Tech Computer Science & Engineering
-university  : MMMUT Gorakhpur
-graduating  : June 2027
-location    : India
-target_roles: [ SOC Analyst, Blue Team Engineer, Digital Forensics ]
-```
+B.Tech CSE student at MMMUT Gorakhpur (graduating 2027), focused on blue team engineering and DFIR. I build tools — EVTX parsers, network IDS, PCAP analysers, and vulnerability dashboards — and map detections to MITRE ATT&CK. TryHackMe top 3% globally. Co-authored an IEEE paper on Windows authentication forensics.
 
-> Blue team engineer who **builds real tools** — not just collects certifications.
-> My work covers threat detection, EVTX log forensics, and network traffic analysis
-> mapped to **MITRE ATT&CK** — the kind of depth that matters in a real SOC or DFIR role.
+Currently targeting SOC Analyst and Blue Team Engineer roles. Open to internships at MSSPs and security-focused startups.
 
 ---
 
-## `> ls ./projects`
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🪟 Windows Login Forensics
+**Multi-Auth Artifact Correlation Engine** · Python · PowerShell
 
-### 🛡️ [SentinelX](https://github.com/Ashiii27/SentinelX)
-**C++ Network Intrusion Detection System**
+Correlates Windows authentication artifacts across Local, MSA, RDP, and Kerberos auth mechanisms. Parses raw EVTX logs and surfaces anomalous access patterns via a unified anomaly view.
 
-A modular NIDS built from scratch — live traffic capture, custom parsing pipeline, and MITRE ATT&CK-tagged structured alerts.
+Event IDs covered: `4624` `4625` `4648` `4768` `4776`
 
-- Custom `PacketCapture → IP → TCP → HTTP` parser
-- Pluggable detectors via abstract `BaseDetector` interface
-- Severity classification + ATT&CK technique tagging
-- Extend without touching core logic
+📄 IEEE paper co-authored with Dr. Vimal Kumar, MMMUT
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![libpcap](https://img.shields.io/badge/libpcap-grey?style=flat-square)
-![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=flat-square)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ashiii27/Windows-Login-Extractor)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🔍 [WinLogon Forensics](https://github.com/Ashiii27/Windows-Login-Extractor)
-**Multi-Auth Artifact Correlation Engine**
+### 🦠 MAFIA — Malware & Fraud Intelligence Analyser
+**APK Malware Analysis + Fraud Intelligence Platform** · Python · React
 
-Correlates Windows auth artifacts across Local, MSA, RDP & Kerberos — surfaces anomalous access from raw EVTX logs.
+Built for the PSB Cybersecurity Hackathon 2026 (IIT Hyderabad × Bank of India). Combines a WhatsApp bot for end-user APK scanning with an enterprise SOC dashboard for threat intelligence and fraud pattern detection.
 
-- Event IDs: `4624` `4625` `4648` `4768` `4776`
-- Unified anomaly view across all auth mechanisms
-- 📄 IEEE paper in progress — Dr. Vimal Kumar, MMMUT
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ashiii27/MAFIA)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-grey?style=flat-square)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 [PCAP Forensics Analyser](https://github.com/Ashiii27/PCAP-Forensics-Analyser)
-**Network Traffic Forensics Tool**
+### 🔍 PCAP Forensics Analyser
+**Network Traffic Forensics Tool** · Python · dpkt · Wireshark
 
 Deep PCAP inspection — protocol dissection, IOC extraction, and anomaly flagging from captured network traffic.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚧 In the Lab...
-Currently building tools that push into:
-- Automated threat hunting pipelines
-- Log correlation at scale
-- Threat intel feed integration
-
-Watch the GitHub — more dropping soon.
-
-</td>
-</tr>
-</table>
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ashiii27/PCAP-Forensics-Analyser)
 
 ---
 
-## `> cat skills.conf`
+### 🛡️ SentinelX
+**C++ Network Intrusion Detection System** · C++ · libpcap · MITRE ATT&CK
 
-<div align="center">
+Modular NIDS with a custom `PacketCapture → IP → TCP → HTTP` parsing pipeline. Pluggable detector architecture via abstract `BaseDetector` interface. Generates severity-classified, ATT&CK-tagged structured alerts.
 
-**Languages & Scripting**
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ashiii27/SentinelX)
 
-[![Skills](https://skillicons.dev/icons?i=cpp,python,powershell,bash,linux,kali,git,vscode&theme=dark)](https://skillicons.dev)
+---
 
-</div>
+### 🔎 CVE Explorer
+**Vulnerability Intelligence Dashboard** · FastAPI · React
 
-| Domain | Tools & Techniques |
+Real-time CVE lookup and vulnerability dashboard. Backend deployed on Render, frontend on Vercel.
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Ashiii27/CVE-Explorer)
+
+---
+
+## Skills
+
+| Domain | Tools & Stack |
 |---|---|
-| 🔵 **Threat Detection** | MITRE ATT&CK · Sigma Rules · Custom Detection Logic · Alert Triage |
-| 🪟 **Windows Forensics** | EVTX Parsing · Event IDs · FTK Imager · Autopsy · Registry Analysis |
-| 🌐 **Network Analysis** | PCAP · Wireshark · libpcap · Protocol Dissection · IOC Extraction |
-| 🚨 **Incident Response** | Log Correlation · Timeline Analysis · Artifact Collection |
-| 🔎 **OSINT** | Passive Recon · Threat Intel · Open-Source Investigation |
+| **Threat Detection** | MITRE ATT&CK · Sigma Rules · Custom detection logic · Alert triage |
+| **Windows Forensics** | EVTX parsing · Event IDs · FTK Imager · Autopsy · Registry analysis |
+| **Network Analysis** | PCAP · Wireshark · libpcap · dpkt · Protocol dissection · IOC extraction |
+| **Incident Response** | Log correlation · Timeline analysis · Artifact collection |
+| **Development** | Python · C++ · PowerShell · Bash · FastAPI · React |
+| **OSINT** | Passive recon · Threat intel · Open-source investigation |
 
----
 
-## `> tail -f progress.log`
 
-| Status | Certification / Platform |
-|:---:|---|
-| 🟢 **Active** | **TryHackMe** — Top 3% Globally |
-| 🟡 **In Progress** | LetsDefend · CyberDefenders · PortSwigger Web Security Academy |
-| 📌 **Next Target** | **CompTIA Security+** |
-| 🗺️ **Roadmap** | `CySA+` → `TCM Security PTP` → `OSCP` |
-| 📄 **Research** | IEEE Paper — Windows Auth Forensics (Dr. Vimal Kumar, MMMUT) |
-
----
-
-## `> git log --oneline`
+## Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
 &nbsp;
-<img height="160" src="https://streak-stats.demolab.com/?user=Ashiii27&theme=dark&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=90e0ef&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555"/>
+<img height="155" src="https://streak-stats.demolab.com/?user=Ashiii27&theme=dark&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=90e0ef&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=555555"/>
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&bg_color=0d1117&color=00b4d8&line=0a3d62&point=90e0ef&area=true&hide_border=true"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&bg_color=0d1117&color=00b4d8&line=0a3d62&point=90e0ef&area=true&hide_border=true"/>
 
 </div>
 
@@ -153,16 +105,11 @@ Watch the GitHub — more dropping soon.
 
 <div align="center">
 
-## `> ./hire_me.sh`
-
-**Looking for SOC Analyst · Blue Team · DFIR roles**
-
-If you're building a security team and want someone who writes forensics tools,
-understands what's in the logs, and maps every detection to MITRE —
+**Open to SOC Analyst · Blue Team · DFIR roles and security internships**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/Browse%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27?tab=repositories)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white)](https://ashiii27.vercel.app)
 
 <br/>
 

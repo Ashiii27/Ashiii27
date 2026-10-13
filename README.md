@@ -1,166 +1,97 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          ASHISH KUMAR                             -->
-<!--        Security  ×  Backend Engineering  ×  Agentic AI           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,65:0a3d62,100:00b4d8&height=190&section=header&text=Ashish%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Security%20%C3%97%20Backend%20%C3%97%20Agentic%20AI&descAlignY=58&descSize=19&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Ashish Kumar — Security × Backend × Agentic AI"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,65:0a3d62,100:00b4d8&height=190&section=header&text=Ashish%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Security%2C%20backend%20and%20agentic%20AI&descAlignY=58&descSize=19&descColor=7dd3fc&animation=fadeIn" width="100%" alt="Ashish Kumar"/>
 
 <a href="https://github.com/Ashiii27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Security+Engineer+%7C+Backend+Developer+%7C+Agentic+AI+Builder;I+build+secure+backends+and+intelligent+agents;I+hunt+threats%2C+map+MITRE+ATT%26CK+%26+ship+APIs;Guardrails+first+%E2%80%94+prompt+injection%2C+secret+leaks%2C+tool+abuse" alt="Security Engineer | Backend Developer | Agentic AI Builder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=B.Tech+CSE+student+at+MMMUT%2C+graduating+2027;I+work+on+security+tools+and+backend+systems;Lately+I+have+been+building+agents+with+LangChain;Currently+working+on+MCPGuard" alt="B.Tech CSE student at MMMUT, graduating 2027"/>
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiii27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ashiii27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashiii27)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25_Globally-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-flax-seven-68.vercel.app)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiii.2790@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_3%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ashiii27)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-flax-seven-68.vercel.app)
+[![Email](https://img.shields.io/badge/Email-ashiii.2790%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiii.2790@gmail.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashiii27&label=Profile%20Views&color=0ea5e9&style=flat)
 ![Followers](https://img.shields.io/github/followers/Ashiii27?label=Followers&style=flat&color=7c3aed&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/badge/Repositories-40%2B-0a3d62?style=flat&logo=github&logoColor=white)
 
 </div>
 
-<br/>
+## About me
 
-<!-- ───────────────────────────── ABOUT ───────────────────────────── -->
+Hi, I'm Ashish. I'm a B.Tech CSE student at MMMUT, Gorakhpur, graduating in 2027.
 
-## <img src="https://skillicons.dev/icons?i=terminal" height="26" align="center"/> &nbsp;About Me
+I got into cybersecurity first. Most of my early time went into SOC labs, TryHackMe (top 3% there now), Windows logs and packet captures. Along the way I kept feeling that reading about attacks was not enough, I wanted to build the things I was trying to defend. That is what pushed me towards backend development.
 
-```python
-class AshishKumar:
-    """Security roots. Backend depth. Agentic AI direction."""
+These days my time is split three ways: security tools, backend work in Python, Go and TypeScript, and AI agents. The agent side is fairly recent and honestly the most interesting to me right now, mostly because it brings the other two together. An agent that can call tools is basically a backend with a mind of its own, and it needs the same care with permissions, input checks and logging that any other system does. Probably more.
 
-    def __init__(self):
-        self.name        = "Ashish Kumar"
-        self.education   = "B.Tech CSE @ MMMUT Gorakhpur (Class of 2027)"
-        self.domains     = ["Security Engineering", "Backend Development", "Agentic AI"]
-        self.languages   = ["Python", "Go", "TypeScript", "C++"]
-        self.current_focus = [
-            "Secure-by-design APIs & backend systems",
-            "LLM agents with guardrails — MCP security, prompt-injection defence",
-            "Detection engineering mapped to MITRE ATT&CK",
-        ]
-        self.credibility = ["TryHackMe Top 3% Globally", "IEEE paper co-author"]
+What I'm up to at the moment:
 
-    def say_hi(self):
-        print("I don't just find vulnerabilities — I build the systems that resist them.")
+- Building [MCPGuard](https://github.com/Ashiii27/mcpguard), a small proxy that checks MCP tool calls before they run. It looks for leaked secrets, prompt injection and writes to files that should not be touched.
+- Working through LangChain and agent patterns in [agenticLangChain](https://github.com/Ashiii27/agenticLangChain). I mostly care about how agents use tools and where that can go wrong.
+- Looking for internships in security, backend or AI engineering, in that area or somewhere in between.
 
-me = AshishKumar()
-me.say_hi()
-```
+## What I work on
 
-I started in **blue-team security** — SOC workflows, Windows/DFIR forensics and network detection — and I've since expanded into the two areas modern security actually lives in: the **backend systems** that need defending, and the **AI agents** that are rapidly becoming part of them.
+### Security
 
-That combination is my edge. I build backends like someone who has read attacker logs, and I build agents like someone who expects them to be attacked — least-privilege tools, validated outputs, and firewalls between models and the systems they can touch.
+This is where I started, and I still spend a good amount of time here. Log and PCAP analysis, Windows event logs, writing detections and mapping them to MITRE ATT&CK, that sort of thing. Most of my early repos are home labs and small tools from learning this.
 
-- 🔭 &nbsp;Currently building **[MCPGuard](https://github.com/Ashiii27/mcpguard)** — a zero-dependency security proxy for MCP tool calls
-- 🌐 &nbsp;Shipped a multi-protocol **[honeypot network](https://github.com/Ashiii27/honeypot-network)** in Go with a real-time React threat dashboard
-- 📄 &nbsp;Co-authored an **IEEE paper** on Windows authentication forensics with Dr. Vimal Kumar, MMMUT
-- 🏆 &nbsp;Built **MAFIA** (APK malware & fraud intelligence) at the PSB Cybersecurity Hackathon 2026 — IIT Hyderabad × Bank of India
-- 🎯 &nbsp;Open to **Security Engineering · Backend · Agentic AI / AI Security** internships and collaborations
+### Backend
 
-<br/>
+Python, Go and TypeScript, usually FastAPI or Express on top. I try to pay attention to the unglamorous parts: auth, validation, rate limits, decent error handling. The [backend-projects](https://github.com/Ashiii27/backend-projects) repo is where a lot of my practice code lives.
 
-<!-- ─────────────────────────── WHAT I DO ─────────────────────────── -->
+### Agentic AI
 
-## 🚀 &nbsp;What I Do
+LangChain agents, MCP and tool calling. My interest here is less about making agents do impressive demos and more about what happens when they are given real access to files, APIs and shells. That is the problem MCPGuard came out of.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🛡️ Security Engineering
-
-Threat detection & forensics, built — not just studied.
-
-- Detection logic mapped to **MITRE ATT&CK**
-- Windows EVTX, PCAP & log forensics
-- Honeypots, IDS & IOC extraction
-- STIX 2.1 threat-intel export
-
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Backend Engineering
-
-APIs and systems designed to survive contact with attackers.
-
-- **Python / Go / TypeScript** services
-- FastAPI, Node.js & Express APIs
-- Secure auth, validation & rate-limiting
-- Dockerised, deploy-ready systems
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Agentic AI
-
-LLM agents engineered with a security-first mindset.
-
-- **LangChain** agents & tool use
-- **MCP security** — guarding tool calls
-- Prompt-injection & secret-leak defence
-- Pydantic-validated structured outputs
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ─────────────────────────── TECH STACK ────────────────────────── -->
-
-## 🧰 &nbsp;Tech Stack
+## Tools I use
 
 <div align="center">
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,bash,powershell&perline=7" alt="Languages: Python, Go, TypeScript, JavaScript, C++, Bash, PowerShell"/>
+<img src="https://skillicons.dev/icons?i=py,go,ts,js,cpp,bash,powershell&perline=7" alt="Python, Go, TypeScript, JavaScript, C++, Bash, PowerShell"/>
 
-**Backend & APIs**
+**Backend and APIs**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,supabase,postman&perline=7" alt="Backend: Node.js, Express, FastAPI, Flask, PostgreSQL, Supabase, Postman"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,supabase,postman&perline=7" alt="Node.js, Express, FastAPI, Flask, PostgreSQL, Supabase, Postman"/>
 
-**Frontend, DevOps & Tooling**
+**Other stuff**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git,github,githubactions,linux,vercel&perline=9" alt="Frontend and DevOps: React, Vite, Tailwind, Docker, Git, GitHub, GitHub Actions, Linux, Vercel"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,docker,git,github,githubactions,linux,vercel&perline=9" alt="React, Vite, Tailwind, Docker, Git, GitHub, GitHub Actions, Linux, Vercel"/>
 
 </div>
 
-| Area | Specialised Stack |
-|:---|:---|
-| **Agentic AI** | ![LangChain](https://img.shields.io/badge/LangChain-Agents_&_Tools-1C3C3C?style=flat&logo=langchain&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Tool_Security-7C3AED?style=flat) ![Groq](https://img.shields.io/badge/Groq-Fast_Inference-F55036?style=flat) ![Gemini](https://img.shields.io/badge/Gemini-Multi--Model-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-Structured_Outputs-E92063?style=flat&logo=pydantic&logoColor=white) |
-| **Security** | ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-FF6B35?style=flat) ![Wireshark](https://img.shields.io/badge/Wireshark-PCAP_Analysis-1679A7?style=flat&logo=wireshark&logoColor=white) ![Sigma](https://img.shields.io/badge/Sigma-Detection_Rules-00B4D8?style=flat) ![STIX](https://img.shields.io/badge/STIX_2.1-Threat_Intel-1e1b4b?style=flat) ![JA3](https://img.shields.io/badge/JA3-TLS_Fingerprinting-0a3d62?style=flat) |
-| **Forensics** | `EVTX Parsing` · `FTK Imager` · `Autopsy` · `Registry Analysis` · `Timeline Reconstruction` · `IOC Extraction` |
+A few more specific ones that do not have neat icons:
 
-<br/>
+| Area | Things I use |
+| :--- | :--- |
+| AI / agents | LangChain, MCP, Groq and Gemini models, Pydantic for structured output |
+| Security | MITRE ATT&CK, Wireshark, Sigma rules, STIX 2.1, JA3 fingerprinting |
+| Forensics | EVTX parsing, FTK Imager, Autopsy, Windows registry, timeline work |
 
-<!-- ──────────────────────── FEATURED PROJECTS ─────────────────────── -->
+## Projects
 
-## 🌟 &nbsp;Featured Projects
+These are the ones I would point to first. The rest of my repos are mostly notes, labs and things I built while learning.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🤖 <a href="https://github.com/Ashiii27/mcpguard">MCPGuard</a></h3>
-<p><b>Zero-dependency security proxy for the Model Context Protocol.</b> Sits between MCP clients and servers, inspecting every <code>tools/call</code> in real time to block secret leaks, prompt injections and unsafe file writes — with sub-millisecond, fail-closed inspection.</p>
+<h3><a href="https://github.com/Ashiii27/mcpguard">MCPGuard</a></h3>
+<p>A security proxy for the Model Context Protocol, written in Python with no dependencies. It sits between an MCP client and server and checks every tool call before it goes through. If it spots a secret in the arguments, signs of prompt injection, or a write to a sensitive path, the call gets blocked. This started because I could not find a simple way to do this and wanted to see if I could build one.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-Security_Proxy-7C3AED?style=flat"/>
-<img src="https://img.shields.io/badge/Deps-Zero-00B4D8?style=flat"/>
+<img src="https://img.shields.io/badge/MCP-Tool_calls-7C3AED?style=flat"/>
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>🍯 <a href="https://github.com/Ashiii27/honeypot-network">Honeypot Network</a></h3>
-<p><b>Multi-protocol honeypot network in Go.</b> Simulates SSH, HTTP, FTP, SMB, MySQL &amp; Redis, captures attacker behaviour, maps it to 27 MITRE ATT&amp;CK techniques, extracts IOCs and streams everything to a real-time React dashboard with session replay.</p>
+<h3><a href="https://github.com/Ashiii27/honeypot-network">Honeypot Network</a></h3>
+<p>A honeypot setup in Go that pretends to be six services at once: SSH, HTTP, FTP, SMB, MySQL and Redis. It records what attackers actually do, credentials they try, commands they run, files they upload, then maps that behaviour to MITRE ATT&amp;CK and pulls out IOCs. There is a React dashboard that streams it live and lets you replay SSH sessions.</p>
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
@@ -170,136 +101,101 @@ LLM agents engineered with a security-first mindset.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🪟 <a href="https://github.com/Ashiii27/WinLogin-Forensics">WinLogin Forensics</a></h3>
-<p><b>Windows login artifact extraction &amp; analysis framework.</b> Correlates Local, MSA, RDP &amp; Kerberos authentication across EVTX logs (<code>4624</code> <code>4625</code> <code>4648</code> <code>4768</code> <code>4776</code>) to surface anomalous access. The codebase behind my IEEE paper.</p>
+<h3><a href="https://github.com/Ashiii27/WinLogin-Forensics">WinLogin Forensics</a></h3>
+<p>Parses Windows authentication logs and lines up logons across Local, MSA, RDP and Kerberos so odd access patterns are easier to spot. Works with event IDs 4624, 4625, 4648, 4768 and 4776. I co-authored an IEEE paper based on this work with Dr. Vimal Kumar at MMMUT, which is how this project started.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/DFIR-Forensics-0a3d62?style=flat"/>
 <img src="https://img.shields.io/badge/IEEE-Paper-701C1C?style=flat&logo=ieee&logoColor=white"/>
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>🛡️ <a href="https://github.com/Ashiii27/SentinelX">SentinelX</a></h3>
-<p><b>C++ network intrusion detection system.</b> Custom <code>PacketCapture → IP → TCP → HTTP</code> parsing pipeline with a pluggable <code>BaseDetector</code> architecture, emitting severity-classified, MITRE ATT&amp;CK-tagged structured alerts.</p>
+<h3><a href="https://github.com/Ashiii27/SentinelX">SentinelX</a></h3>
+<p>A network intrusion detection system in C++. I wrote the packet parsing pipeline myself (capture, then IP, TCP and HTTP) instead of leaning on a library for all of it, mostly to understand what was actually inside a packet. Detectors plug in through a common interface and the alerts come out tagged with severity and ATT&amp;CK techniques.</p>
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/libpcap-NIDS-00B4D8?style=flat"/>
-<img src="https://img.shields.io/badge/MITRE-ATT%26CK-FF6B35?style=flat"/>
+<img src="https://img.shields.io/badge/libpcap-Packet_capture-00B4D8?style=flat"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🔍 <a href="https://github.com/Ashiii27/PCAP-Forensics-Analyser">PCAP Forensics Analyser</a></h3>
-<p><b>Network traffic forensics CLI.</b> Reconstructs TCP sessions, extracts IOCs across HTTP/DNS/FTP/TLS, fingerprints TLS with JA3, and detects port scans, DNS tunnelling and beaconing — outputting SIEM-ready JSON reports.</p>
+<h3><a href="https://github.com/Ashiii27/PCAP-Forensics-Analyser">PCAP Forensics Analyser</a></h3>
+<p>A command line tool for picking apart packet captures. It rebuilds TCP sessions, pulls IOCs out of HTTP, DNS, FTP and TLS traffic, and flags things like port scans, DNS tunnelling and cleartext logins. It also does JA3 fingerprinting, which is a neat trick I picked up from how real NDR tools identify malware traffic. Output is JSON, so it can feed into other tooling.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/JA3-Fingerprinting-0a3d62?style=flat"/>
+<img src="https://img.shields.io/badge/Wireshark-PCAP-1679A7?style=flat&logo=wireshark&logoColor=white"/>
 </p>
 </td>
 <td width="50%" valign="top">
-<h3>🔎 <a href="https://github.com/Ashiii27/cve-explorer">CVE Explorer</a></h3>
-<p><b>Vulnerability intelligence dashboard.</b> Full-stack CVE search &amp; exploration with real-time data from NVD and Exploit-DB — search backend, React frontend, deployed and live.</p>
+<h3><a href="https://github.com/Ashiii27/cve-explorer">CVE Explorer</a></h3>
+<p>A small web app for searching CVEs with live data from the NVD and Exploit-DB. Nothing fancy, it was one of my earlier full stack builds and a good way to learn how a frontend and an API fit together. It is deployed if you want to click around.</p>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/NVD-Live_Data-00B4D8?style=flat"/>
 </p>
 </td>
 </tr>
 </table>
 
-### 🧪 &nbsp;Also Exploring
+### Other repos worth a look
 
-| Project | What it is |
-|:---|:---|
-| 🦜 **[Agentic LangChain](https://github.com/Ashiii27/agenticLangChain)** | Security-first LangChain v1 & agentic AI guide — safe tool use, prompt-injection defence, Pydantic output guardrails (Gemini + Groq) |
-| 🗄️ **[Backend Projects](https://github.com/Ashiii27/backend-projects)** | My backend engineering lab — TypeScript foundations, REST APIs, Express servers, tested HTTP API design |
-| 🔬 **[Exposure](https://github.com/Ashiii27/Exposure)** | X-rays what a web page really does — trackers, fingerprinting APIs & third-party requests, drawn as a force-directed graph |
-| 🏠 **[CyberSecurity HomeLabs](https://github.com/Ashiii27/CyberSecurity-HomeLabs-Setup)** | DFIR & Windows forensics home lab (Windows VM + WSL) for hands-on incident-response practice — my most-starred repo ⭐ |
+| Repo | Notes |
+| :--- | :--- |
+| [Agentic LangChain](https://github.com/Ashiii27/agenticLangChain) | My LangChain notes and experiments, written from a security angle. Safe tool use, prompt injection, validating model output with Pydantic. |
+| [Backend Projects](https://github.com/Ashiii27/backend-projects) | Practice backend work in TypeScript and JavaScript. REST APIs, an Express server, a tested HTTP API. |
+| [Exposure](https://github.com/Ashiii27/Exposure) | Shows what a web page gets up to behind your back: trackers, fingerprinting scripts, third party requests, plotted as a graph. Work in progress. |
+| [CyberSecurity HomeLabs](https://github.com/Ashiii27/CyberSecurity-HomeLabs-Setup) | The DFIR home lab I set up with a Windows VM and WSL for practising investigations. For whatever reason this is my most starred repo. |
 
-<br/>
+## A bit of background
 
-<!-- ───────────────────────────── STATS ───────────────────────────── -->
+| | |
+| :--- | :--- |
+| TryHackMe | Top 3% globally. Mostly SOC and blue team paths. |
+| IEEE paper | Co-authored a paper on Windows authentication forensics with Dr. Vimal Kumar, MMMUT. |
+| PSB Hackathon 2026 | Built MAFIA at the PSB Cybersecurity Hackathon (IIT Hyderabad and Bank of India), an Android malware and fraud checker with a WhatsApp bot on the front and a dashboard behind it. |
+| College | B.Tech CSE, MMMUT Gorakhpur, class of 2027. |
 
-## 📊 &nbsp;GitHub Stats
+## GitHub stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="Ashish Kumar's GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats for Ashiii27"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Languages I use most"/>
 
 <br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Ashiii27&hide_border=true&background=0d1117&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b949e" alt="GitHub contribution streak"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Ashiii27&hide_border=true&background=0d1117&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b949e" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Activity over time"/>
 
 </div>
 
-<br/>
-
-## 🐍 &nbsp;Contribution Graph
+## Contribution graph
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake.svg"/>
-  <img alt="Snake eating my contribution graph — generated daily by GitHub Actions" src="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake-dark.svg"/>
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
 
-<br/>
-
-<!-- ──────────────────────── NOW / ACHIEVEMENTS ────────────────────── -->
-
-## 🎯 &nbsp;Currently
-
-- [x] 🔐 &nbsp;Blue-team & DFIR foundations — SOC, forensics, TryHackMe Top 3%
-- [x] 📄 &nbsp;IEEE paper on Windows authentication forensics
-- [x] 🍯 &nbsp;Production-style security tooling — honeypots, NIDS, PCAP forensics
-- [ ] ⚙️ &nbsp;Deepening backend engineering — APIs, system design, TypeScript/Go services &nbsp;`in progress`
-- [ ] 🤖 &nbsp;Shipping secure agentic AI — MCP guardrails, agent evaluation, AI red-teaming &nbsp;`in progress`
-- [ ] 🎓 &nbsp;Graduating 2027 — targeting Security / Backend / AI Engineering roles
-
-## 🏆 &nbsp;Highlights
-
 <div align="center">
 
-| | |
-|:---|:---|
-| 🥇 **TryHackMe — Top 3% Globally** | Hands-on SOC, DFIR & blue-team labs |
-| 📄 **IEEE Paper Co-Author** | Windows authentication forensics — with Dr. Vimal Kumar, MMMUT |
-| 🏦 **PSB Cybersecurity Hackathon 2026** | MAFIA — APK malware & fraud intelligence (IIT Hyderabad × Bank of India) |
-| ⭐ **Most-Starred Project** | [CyberSecurity HomeLabs Setup](https://github.com/Ashiii27/CyberSecurity-HomeLabs-Setup) — DFIR home-lab guide |
+## Get in touch
 
-</div>
+LinkedIn or email is the fastest way to reach me. I read everything, replies might take a day or two if college is busy.
 
-<br/>
-
-<!-- ───────────────────────────── FOOTER ──────────────────────────── -->
-
-<div align="center">
-
-### 💬 &nbsp;Let's Build Something Secure
-
-**Open to Security Engineering · Backend Development · Agentic AI roles, internships & collaborations**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiii27-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiii27/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiii.2790@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ashiii.2790%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiii.2790@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-flax-seven-68.vercel.app)
-
-<br/>
-
-> *"Security is not a feature you add at the end — it's how you build from the first commit."*
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-flax-seven-68.vercel.app)
 
 <br/>
 

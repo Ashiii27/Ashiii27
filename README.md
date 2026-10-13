@@ -178,10 +178,12 @@ These are the ones I would point to first. The rest of my repos are mostly notes
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake.svg"/>
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Ashiii27/Ashiii27/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
+  <img alt="Contribution graph" src="assets/github-snake-dark.svg"/>
 </picture>
+
+<sub>The snake is generated from my actual contribution data and lives in this repo under <code>assets/</code>, so it does not depend on any outside service. It is a snapshot rather than a live feed for now.</sub>
 
 </div>
 

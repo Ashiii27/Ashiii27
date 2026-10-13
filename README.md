@@ -159,17 +159,13 @@ These are the ones I would point to first. The rest of my repos are mostly notes
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashiii27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats for Ashiii27"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Ashiii27&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats for Ashiii27"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Languages I use most"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashiii27&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Languages I use most"/>
 
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=Ashiii27&hide_border=true&background=0d1117&stroke=22d3ee&ring=a78bfa&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=8b949e" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiii27&bg_color=0d1117&color=22d3ee&line=a78bfa&point=ffffff&area=true&hide_border=true" alt="Activity over time"/>
 
 </div>
 
